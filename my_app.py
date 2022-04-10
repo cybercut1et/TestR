@@ -28,6 +28,7 @@ class MainWin(QWidget):
     def next_click(self):
         self.hide()
         self.tw = TestWin()
+asd = 'Привет'
 main_win = MainWin()
 main_win
 app.exec()
